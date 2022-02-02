@@ -7,4 +7,6 @@ A Python Crawler for IP-API.com
 pip3 install requests
 pip3 install pymysql
 ```
-2. 运行`main.py`，输入起始IP（curip）和终末IP+0.0.1.0（endip）。
+2. 修改`main.py`中的数据库地址、端口号、用户名、密码和数据库名称。
+
+3. 运行`main.py`，输入起始IP（curip）和终末IP+0.0.1.0（endip）。
