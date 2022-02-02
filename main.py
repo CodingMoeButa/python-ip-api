@@ -12,7 +12,7 @@ print("endip = ", end='')
 endip = input()
 
 ipv4pool = ipv4pool.IPv4Pool(curip, endip)
-db = dbconnector.RemoteDB("hk.zimoe.com", 3306, "ipapi", "fuckipapi", "ipapi")
+db = dbconnector.RemoteDB("hostname", 3306, "username", "password", "database")
 
 stopflag = False
 ippool = []
