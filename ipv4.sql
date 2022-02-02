@@ -1,19 +1,3 @@
-/*
- Navicat Premium Data Transfer
-
- Source Server         : hk
- Source Server Type    : MariaDB
- Source Server Version : 100332
- Source Host           : hk.zimoe.com:3306
- Source Schema         : ipapi
-
- Target Server Type    : MariaDB
- Target Server Version : 100332
- File Encoding         : 65001
-
- Date: 02/02/2022 20:11:42
-*/
-
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
